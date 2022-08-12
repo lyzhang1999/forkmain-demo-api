@@ -5,7 +5,7 @@ on:
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
-  ORG: "jack230230"
+  ORG: "h8r-dev"
   HELM_REPO: "forkmain-demo-deploy"
   APP_NAME: "forkmain-demo"
 jobs:
