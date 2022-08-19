@@ -9,4 +9,4 @@ Thanks for [go-gin-api-medium](https://github.com/hellokvn/go-gin-api-medium)
 Preview On ForkMain: [http://forkmain-demo-uzhyq4fqw.forkmain.cloud/](http://forkmain-demo-uzhyq4fqw.forkmain.cloud/)
 
 
-11
+1
